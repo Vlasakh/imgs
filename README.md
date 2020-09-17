@@ -6,8 +6,8 @@ Check 2
 
 
 
-| name | type | required | default | description |  |
-|:-:|:-:|:-:|:-:|:-:|-|
+| name | type | required | default | description | Example |
+|:-:|:-:|:-:|:-:|-|-|
 | endpoint | string | + |  |  |  |
 | method | string |  | get |  |  |
 | payload  | Object |  |  | for post, put, patch |  |
